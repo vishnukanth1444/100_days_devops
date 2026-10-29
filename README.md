@@ -2,7 +2,7 @@
 
 Welcome to my 100 Days of DevOps Challenge! This README file documents my journey and accomplishments throughout this exciting challenge.
 
-## Start Date: Monday, July 25th, 2022
+## Start Date: Monday, Jan 25th, 2026
 
 I embarked on this DevOps challenge with great enthusiasm, aiming to enhance my skills and knowledge in the field of DevOps.
 
